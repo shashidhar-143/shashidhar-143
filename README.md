@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bca Graduate| SQL | Python | Power BI | Excel | PostgreSQL | Turning data into insights <br><br><br>
+Bca Graduate| SQL | Python | Power BI | Excel | ML | Turning data into insights <br><br><br>
 
 
 ## 🌐 Socials:
